@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment 9.4</string>
+    <string name="helloWorldTxt">Hello World</string>
+    <string name="option1">Menu Item 1</string>
+    <string name="option2">Menu Item 2</string>
+    <string name="option3">Menu Item 3</string>
+    <string name="option4">Menu Item 4</string>
+</resources>
